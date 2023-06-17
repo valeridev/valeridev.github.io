@@ -6,7 +6,7 @@ Let me tell you a bit about myself and what you can expect to find here.
 
 ## About Me
 
-I haven't always been passionate about coding. It wasn't love at first sight. I was attracted by how different it is to learn coding, and it was only when I was mature enough to dedicate myself to this new tech adventure. Finally, I've embarked on this self-taught journey to explore the world of programming! It's been an incredible journey of growth and personal discovery so far. I love the challenge and the endless possibilities that coding offers.
+I didn't always have a passion for coding. It wasn't love at first sight. However, I was captivated by the unique nature of learning to code, and as I matured, I realized it was an adventure I wanted to embrace. That's when I embarked on this self-taught journey to explore the vast world of programming. It has been an incredible experience of personal growth and discovery so far. I am fascinated by the challenge and the boundless possibilities that coding offers.
 
 One of my earliest projects was a website dedicated to my beloved furry companion, Tainá Amora. She's my best friend with four paws and a wagging tail. Through coding, I wanted to capture our special bond and create something unique. It was a heartwarming experience that sparked my passion for web development.
 Check out my [TainaAmoraCodes](https://github.com/valeridev/TainaAmoraCodes) repository to learn more about the project!
