@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-👋 Hi there! I'm Váleri Calhau, a self-taught coder on an exciting journey of learning and building. I'm thrilled to have you here on my GitHub! Try my [weather app](https://github.com/valeridev/weathershecodesplus.html/blob/main/github4.html) my latest project that I did with SheCodes.
+👋 Hi there! I'm Váleri Calhau, a self-taught coder on an exciting journey of learning and building. I'm thrilled to have you here on my GitHub! Try my [weather app,](https://github.com/valeridev/weathershecodesplus.html/blob/main/github4.html) my latest project that I did with SheCodes.
 
 Let me tell you a bit about myself and what you can expect to find here.
 
